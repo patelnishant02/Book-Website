@@ -1,0 +1,15 @@
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.AssemblyInfo.cs
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\bin\Debug\net6.0\Learning Website.DataAccess.deps.json
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\bin\Debug\net6.0\Learning Website.DataAccess.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\bin\Debug\net6.0\Learning Website.DataAccess.pdb
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\bin\Debug\net6.0\Learning Website.Models.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\bin\Debug\net6.0\Learning Website.Models.pdb
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.csproj.CopyComplete
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\refint\Learning Website.DataAccess.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\Learning Website.DataAccess.pdb
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.DataAccess\obj\Debug\net6.0\ref\Learning Website.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\bin\Debug\net6.0\Learning Website.Models.deps.json
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\bin\Debug\net6.0\Learning Website.Models.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\bin\Debug\net6.0\Learning Website.Models.pdb
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.csproj.AssemblyReference.cache
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.AssemblyInfoInputs.cache
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.AssemblyInfo.cs
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.csproj.CoreCompileInputs.cache
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\refint\Learning Website.Models.dll
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\Learning Website.Models.pdb
+C:\Users\aHP WORLD ANAND\OneDrive\Desktop\TATVASOFT INTERNSHIP\.NET\Learning Website\Learning.Models\obj\Debug\net6.0\ref\Learning Website.Models.dll
